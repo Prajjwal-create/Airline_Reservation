@@ -106,7 +106,7 @@ class SeatTypeControllerTest {
 		//FlightCompany addc=service.getCompanyById(fCompany.get(0).get);
 
 		assertNotNull(addc.getSeattypeid());
-
+       assertEquals(addc, res);
 		verify(service,times(1)).getByOne(sType.get(0).getSeattypeid());	
 	}
 

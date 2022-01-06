@@ -1,9 +1,0 @@
-package com.coforge.training.airline.response;
-
-public class UpdateUserPasswordResponse {
-
-	private String message;
-	
-	private String email;
-	
-}

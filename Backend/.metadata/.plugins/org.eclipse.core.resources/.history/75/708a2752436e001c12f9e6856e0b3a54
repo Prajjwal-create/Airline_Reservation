@@ -1,9 +1,0 @@
-package com.coforge.training.airline.service;
-
-import com.coforge.training.airline.model.Card;
-
-public interface CardService {
-
-	Card saveCard(Card card);
-
-}

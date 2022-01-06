@@ -59,6 +59,8 @@ public class BookFlightSeatDataController {
 	{
 		List<BookFlightSeatData> res=service.getBookFlightSeatData(flightid,seattype);
 		return ResponseEntity.ok().body(res);
+		
+	
 	}
 
 }

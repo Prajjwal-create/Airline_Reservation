@@ -1,7 +1,0 @@
-package com.coforge.training.airline.serviceImpl;
-
-import com.coforge.training.airline.service.FlightCompanyService;
-
-public class FlightCompanyServiceImpl implements FlightCompanyService{
-
-}

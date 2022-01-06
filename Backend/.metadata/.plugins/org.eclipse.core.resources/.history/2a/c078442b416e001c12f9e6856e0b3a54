@@ -1,9 +1,0 @@
-package com.coforge.training.airline.service;
-
-import com.coforge.training.airline.model.UPI;
-
-public interface UPIService {
-
-	UPI saveUPI(UPI upi);
-
-}

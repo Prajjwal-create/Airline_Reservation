@@ -1,5 +1,0 @@
-package com.coforge.training.airline.response;
-
-public class UpdateFlightCompanyResponse {
-
-}

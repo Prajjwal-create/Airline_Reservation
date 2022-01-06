@@ -1,9 +1,0 @@
-package com.coforge.training.airline.service;
-
-import com.coforge.training.airline.model.seatType;
-
-public interface SeatTypeService {
-
-	public seatType saveNewSeat(seatType seat);
-
-}

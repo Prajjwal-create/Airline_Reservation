@@ -1,9 +1,0 @@
-package com.coforge.training.airline.service;
-
-import com.coforge.training.airline.model.BookFlightSeatData;
-
-public interface BookFlightSeatDataService {
-
-	BookFlightSeatData getById(long bookflightseatid);
-
-}

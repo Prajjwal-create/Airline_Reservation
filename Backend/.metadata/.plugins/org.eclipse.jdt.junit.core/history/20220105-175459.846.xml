@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="SeatTypeControllerTest" project="Air-Line-Reservations" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.682" displayname="SeatTypeControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]">
-    <testcase name="testGetByOne" classname="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.671" displayname="testGetByOne()" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]/[method:testGetByOne()]"/>
-    <testcase name="testDeleteMap" classname="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.003" displayname="testDeleteMap()" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]/[method:testDeleteMap()]"/>
-    <testcase name="testGetAll" classname="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.002" displayname="testGetAll()" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]/[method:testGetAll()]"/>
-    <testcase name="testUpdate" classname="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.001" displayname="testUpdate()" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]/[method:testUpdate()]"/>
-    <testcase name="testSaveNewSeat" classname="com.coforge.training.airline.controller.SeatTypeControllerTest" time="0.003" displayname="testSaveNewSeat()" uniqueid="[engine:junit-jupiter]/[class:com.coforge.training.airline.controller.SeatTypeControllerTest]/[method:testSaveNewSeat()]"/>
-  </testsuite>
-</testrun>
